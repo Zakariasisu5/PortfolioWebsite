@@ -101,7 +101,7 @@ function App() {
             <h2 className="text-3xl font-bold mb-8 dark:text-white">About Me</h2>
             <div className="prose dark:prose-invert max-w-none">
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-                As a Software Engineer and Full Stack Developer, I specialize in building modern web applications
+                As a Full Stack Developer and Problem solving I specialize in building modern web applications
                 that solve real-world problems. My expertise spans across the entire development stack, from
                 crafting intuitive user interfaces to designing robust backend systems.
               </p>
