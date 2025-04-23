@@ -62,7 +62,7 @@ function App() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 dark:text-white">
-                  Hi, I'm Zakaria Sisu — Software Engineer & Full Stack Developer
+                  Hi, I'm Zakaria Sisu —  Full Stack Developer , Cloud engineer and problem solver
                 </h1>
                 <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
                   I craft efficient, scalable, and modern web solutions.
